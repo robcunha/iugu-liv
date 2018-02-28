@@ -1,0 +1,3 @@
+module IuguLiv
+  VERSION = "0.1.0"
+end
